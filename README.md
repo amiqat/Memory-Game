@@ -14,3 +14,9 @@ Click on this [LINK](https://amiqat.github.io/Memory-Game/) to see the live vers
 4. If your moves are greater than 18 and less than 26 then you will get 2 Stars.
 5. Else you will get 1 Star.
 6. You can also restart the game at any stage by clicking the restart button.
+
+### External libraries Used
+
+* [animate.css](https://daneden.github.io/animate.css/)
+* [sweetalert2](https://sweetalert2.github.io/)
+* [momentjs](https://momentjs.com/)
