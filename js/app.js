@@ -140,7 +140,7 @@ let TimerInterval , Timestamp;
 
 function startTimer(){
     
-    let Timestamp = moment().startOf("day");
+    Timestamp = moment().startOf("day");
     TimerInterval =  setInterval(function() {
         Timestamp.add(1, 'second');
         timer.innerHTML = Timestamp.format('mm:ss');
@@ -185,6 +185,8 @@ function restart(){
     isFirstClick = true;
     moves = 0;
     starCount = 3;
+    openedCards = [];
+    matchedCards = [];
     initGame();
 }
 
