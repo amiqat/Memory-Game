@@ -152,10 +152,10 @@ const stars = document.querySelector('.stars').children;
 let starCount = 3;
 function rating(){
     
-    if(moves > 26){
+    if(moves > 26 && stars > 1 ){              
         stars[0].style.display="none";
         starCount--;
-    }else if(moves > 18){
+    }else if(moves > 18 && stars > 2 ){
         stars[1].style.display="none";
         starCount--;
     }
