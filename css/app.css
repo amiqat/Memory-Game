@@ -81,6 +81,9 @@ h1 {
     font-size: 33px;
 }
 
+.deck .card.disable {
+    pointer-events: none;
+}
 /*
  * Styles for the Score Panel
  */
@@ -106,4 +109,18 @@ h1 {
 .score-panel .restart {
     float: right;
     cursor: pointer;
+}
+
+.timerSpan {
+    margin-left: 10px;
+}
+
+.timerSpan img {
+    margin-bottom: -5px;
+}
+.stars{
+    color: gold;
+}
+.deck .card.wobble{
+    background:red ;
 }
