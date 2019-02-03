@@ -19,5 +19,5 @@ Click on this [LINK](https://amiqat.github.io/Memory-Game/) to see the live vers
 * [animate.css](https://daneden.github.io/animate.css/)
 * [sweetalert2](https://sweetalert2.github.io/)
 * [momentjs](https://momentjs.com/)
-* [font-awesome](https://fontawesome.com/)3
+* [font-awesome](https://fontawesome.com/)
 * [google fonts Coda](https://fonts.googleapis.com/css?family=Coda)
