@@ -1,14 +1,17 @@
 /*
  * Create a list that holds all of your cards
  */
-let cards = ["fa-diamond","fa-diamond",
-            "fa-paper-plane-o","fa-paper-plane-o",
-            "fa-anchor","fa-anchor",
-            "fa-bolt","fa-bolt",
-            "fa-cube","fa-cube",
-            "fa-leaf","fa-leaf",
-            "fa-bicycle","fa-bicycle",
-            "fa-bomb","fa-bomb"];
+
+const symbols = ["fa-diamond",
+            "fa-paper-plane-o",
+            "fa-anchor",
+            "fa-bolt",
+            "fa-cube",
+            "fa-leaf",
+            "fa-bicycle",
+            "fa-bomb"];
+
+let cards = symbols.concat(symbols);
 
 let moves = 0;
 
