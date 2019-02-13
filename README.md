@@ -5,19 +5,12 @@
 2. Extract the .zip file
 3. Open index.html in your browser.
 OR
-Click on this [LINK](https://amiqat.github.io/Memory-Game/) to see the live version of the game .
+Click on this [LINK](https://amiqat.github.io/Classic-Arcade-Game/) to see the live version of the game .
 
 ## Rules and Regulations :-
-1. You have to match cards with identical photo.
-2. Your moves are counted out as you proceed the game.
-3. If your moves are equal to 18 then you will get 3 Stars.
-4. If your moves are greater than 18 and less than 26 then you will get 2 Stars.
-5. Else you will get 1 Star.
-6. You can also restart the game at any stage by clicking the restart button.
+When you reach the water, you win the game and the game will start over. If you run into an enemy bug, you will die and the game will start over. THe enemy bugs are running across the screen at random speeds. 
+Use the arrow keys to move left, right, forward or backward.
 
 ### External libraries Used
-* [animate.css](https://daneden.github.io/animate.css/)
 * [sweetalert2](https://sweetalert2.github.io/)
-* [momentjs](https://momentjs.com/)
-* [font-awesome](https://fontawesome.com/)
-* [google fonts Coda](https://fonts.googleapis.com/css?family=Coda)
+
